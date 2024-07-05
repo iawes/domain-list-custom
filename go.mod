@@ -1,4 +1,4 @@
-module github.com/Loyalsoldier/domain-list-custom
+module github.com/DustinWin/domain-list-custom
 
 go 1.21
 
